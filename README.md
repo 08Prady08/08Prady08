@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradumn Nathawat</h1>
-<h3 align="center">Individual with exceptional research skills and ability to communicate complex concepts across business units. Seeking the job of a Data Scientist, to utilize data analysis experience and background in model development.</h3>
+<h3 align="center">An Machine learning enthusiast, who likes to read books and gym in his free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08prady08&label=Profile%20views&color=0e75b6&style=flat" alt="08prady08" /> </p>
 
